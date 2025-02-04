@@ -1,0 +1,7 @@
+- [ ] explore the data.
+    - [ ] from `.json` files
+    - [ ] from `.csv` files
+- [ ] research materials related to recommendation systems
+    - [ ] related libraries can be used directly
+    - [ ] related ML + recommendation blogs
+- [ ] build a sample that would work

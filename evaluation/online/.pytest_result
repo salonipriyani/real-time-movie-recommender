@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.9.16, pytest-7.2.2, pluggy-1.0.0
+rootdir: /home/ziangz/code/team12-movie-recommendation/evaluation/online
+plugins: anyio-3.6.2
+collected 3 items
+
+test_personalization.py ...                                              [100%]
+
+============================== 3 passed in 1.17s ===============================

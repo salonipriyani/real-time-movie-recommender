@@ -1,0 +1,2 @@
+FLASK_APP=serverApp
+FLASK_ENV=development

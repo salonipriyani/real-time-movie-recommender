@@ -1,0 +1,9 @@
+Install kafkacat
+
+Run following ssh command to pipe your local host port 9092, to the kafka stream's. Use password from email:
+  ssh -L 9092:localhost:9092 tunnel@128.2.204.215 -NT
+  
+Begin printing logs from our kafka stream:
+  kafkacat -b localhost:9092 -t movielog12
+
+Watch stream output for recommendation logs. Will start printing logs from most recent to oldest. 
